@@ -75,7 +75,7 @@ http://localhost/CoderHub/Mainmenu.html
 ## 👨‍💻 Developers  
 This project was created in collabration with:  
 - **Imran Danial**
-- **Muhammad Danish**
+- **Icarus Wong**
 
 ---
 
